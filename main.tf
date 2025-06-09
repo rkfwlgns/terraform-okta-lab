@@ -1,4 +1,6 @@
 hcl
+#this script configures the Okta provider
+
 #configure the okta provider
 provider "okta" {
   org_name  = "<your_okta_org_name>"
